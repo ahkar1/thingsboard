@@ -22,9 +22,9 @@ import mdiIconSet from '../svg/mdi.svg';
 
 /* eslint-enable import/no-unresolved, import/default */
 
-const PRIMARY_BACKGROUND_COLOR = "#305680";//#2856b6";//"#3f51b5";
-const SECONDARY_BACKGROUND_COLOR = "#527dad";
-const HUE3_COLOR = "#a7c1de";
+const PRIMARY_BACKGROUND_COLOR = "#34aa2c";//#2856b6";//"#3f51b5";
+const SECONDARY_BACKGROUND_COLOR = "#53ad52";
+const HUE3_COLOR = "#addea7";
 
 /*@ngInject*/
 export default function AppConfig($provide,
